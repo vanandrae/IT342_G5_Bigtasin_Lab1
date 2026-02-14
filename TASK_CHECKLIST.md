@@ -1,32 +1,34 @@
-\# TASK CHECKLIST - Lab 1
-
-
+\# TASK CHECKLIST - Lab 3
 
 \## DONE
 
 \- \[x] ERD Design (User \& Sessions)
 
-\- \[x] Use Case Diagram 
+\- \[x] Use Case Diagram
 
 \- \[x] Activity Diagram (Login/Register Flow)
 
 \- \[x] Class Diagram (MVC Structure)
 
-\- \[x] Backend Implementation (Spring Boot)  
+\- \[x] Backend Implementation (Spring Boot)
 
-\- \[x] Frontend Implementation (ReactJS)
+\- \[x] Frontend Implementation (ReactJS/Mobile Kotlin)
 
-\- \[x] Database Integration (MySQL) 
+\- \[x] Database Integration (MySQL)
+
+\- \[x] Finalizing FRS PDF Documentation (Section 3 Technical Notes added)
 
 
 
 \## IN-PROGRESS
 
-\- \[ ] Finalizing FRS PDF Documentation
+\- \[ ] Final Submission Review
 
 
 
 \## TODO
 
-\- \[ ] Final Submission
+\- \[x] Upload PDF to /docs folder
+
+\- \[ ] Submit Repository Link to LMS
 
