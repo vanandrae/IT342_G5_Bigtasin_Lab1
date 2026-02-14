@@ -12,23 +12,23 @@
 
 \- \[x] Backend Implementation (Spring Boot)
 
-\- \[x] Frontend Implementation (ReactJS/Mobile Kotlin)
+\- \[x] Mobile Implementation (Kotlin) - Resolved User model errors and fixed RegisterActivity
 
-\- \[x] Database Integration (MySQL)
+\- \[x] Database Integration (MySQL) - Schema verified in phpMyAdmin
 
-\- \[x] Finalizing FRS PDF Documentation (Section 3 Technical Notes added)
+\- \[x] Repository Cleanup - Successfully converted 'web' submodule to regular folder
 
-
+\- \[x] Environment Documentation
 
 \## IN-PROGRESS
 
-\- \[ ] Final Submission Review
+\- \[x] Finalizing FRS PDF Documentation (Technical limitations included)
 
 
 
 \## TODO
 
-\- \[x] Upload PDF to /docs folder
+\- \[ ] Final Submission Review
 
 \- \[ ] Submit Repository Link to LMS
 
